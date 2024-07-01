@@ -1,4 +1,4 @@
-# Win10-3.5Netframework-offline-installer
+# Win10-11 .NET Framework 3.5 Offline-installer
 Offline install of .NET Framework 3.5 in Windows 10 using DISM
 
 Over thousands of pages over the internet I did find this easy way and it worked perfectly
