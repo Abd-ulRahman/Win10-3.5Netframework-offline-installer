@@ -1,11 +1,11 @@
 # Win10-3.5Netframework-offline-installer
 Offline install of .NET Framework 3.5 in Windows 10 using DISM
 
-Over thousand of pages over the internet I did find this easy way and it worked perfectly
+Over thousands of pages over the internet I did find this easy way and it worked perfectly
 
 https://winaero.com/offline-install-of-net-framework-3-5-in-windows-10-using-dism/
 
-patch file look like this
+Batch file look like this
 
 	@echo off
 	Title .NET Framework 3.5 Offline Installer
