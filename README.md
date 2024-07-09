@@ -7,4 +7,4 @@ https://winaero.com/offline-install-of-net-framework-3-5-in-windows-10-using-dis
 
 All Rights Goes to the blog Writer
 
-Glade to share it with you
+Glad to share it with you
